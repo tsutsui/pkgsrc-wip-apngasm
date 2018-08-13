@@ -1,0 +1,4 @@
+@comment $NetBSD$
+bin/apngasm
+lib/libapngasm.so
+man/man1/apngasm.1
